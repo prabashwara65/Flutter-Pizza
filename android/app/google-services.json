@@ -10,7 +10,7 @@
         "mobilesdk_app_id": "1:36959093790:android:a665dba055b2ae81d05a0f",
         "android_client_info": {
           "package_name": "com.example.flutterPizzaApp"
-        }
+        } 
       },
       "oauth_client": [],
       "api_key": [
